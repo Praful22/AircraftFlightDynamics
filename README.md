@@ -19,9 +19,11 @@ Ans: Clear and pure observation through eyes(brain).
 **Coordinate Frame: Body-axes coordinate system.**
 
 What is a **coordinate frame**?
+
 Ans: To describe any phenomenon of a system (single/multiple particle system or a field), one must choose a set of coordinates to uniquely determine its positions on a manifold or a frame. This frame is called a coordinate frame. 
 
 What is a **body-axes coordinate system**?
+
 Ans: A coordinate system fixed to the airplane. The origin is at the center of gravity; the x-axis is in the airplane plane of symmetry and points out the nose of the airplane; the z-axis is in the plane of symmetry and points downward, and the y-axis is perpendicular to the x and z axes and points out the right wing.
 
 **Assumptions:**
