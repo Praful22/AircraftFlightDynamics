@@ -30,9 +30,9 @@ What are **assumptions** and why **assume**?
 
 -> Assumptions 
 
-1. Aircraft is treated as a rigid body whose dynamics are comprised of three translational and three rotational degrees of freedom, hence 6-DoF motion.
+1. An aircraft is treated as a rigid body whose dynamics are comprised of three translational and three rotational degrees of freedom, hence 6-DoF motion.
 
-2. Body axes coordinate frame is fixed at the aircraft's center of gravity (CG),
+2. Body axes coordinate frame is fixed at the aircraft's center of gravity (CG).
 
 Motion can be described by:
 1. Translational Motion:
@@ -45,9 +45,12 @@ Motion can be described by:
 
 
 2. Rotational Motion:
-  a. 
-  b.
-  c.
+
+    a.
+
+    b.
+
+    c.
 
 
 
