@@ -27,7 +27,9 @@ What is a **body-axes coordinate system**?
 Ans: A coordinate system fixed to the airplane. The origin is at the center of gravity; the x-axis is in the airplane plane of symmetry and points out the nose of the airplane; the z-axis is in the plane of symmetry and points downward, and the y-axis is perpendicular to the x and z axes and points out the right wing.
 
 **Assumptions:**
-What is an **assumption**? -> 
+What are **assumptions**? 
+
+-> 
 
 1. Aircraft is treated as a rigid body whose dynamics are comprised of three translational and three rotational degrees of freedom, hence 6-DoF motion.
 
