@@ -14,7 +14,6 @@ What is looking at something?
 
 Ans: Clear and pure observation through eyes(brain).
 
-<img width="336" alt="Screenshot 2023-08-28 at 9 01 48 PM" src="https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/60411afc-39fb-4e7d-8ac5-3f5af268e49c">
 
 **Coordinate Frame: Body-axes coordinate system.**
 
@@ -27,9 +26,9 @@ What is a **body-axes coordinate system**?
 Ans: A coordinate system fixed to the airplane. The origin is at the center of gravity; the x-axis is in the airplane plane of symmetry and points out the nose of the airplane; the z-axis is in the plane of symmetry and points downward, and the y-axis is perpendicular to the x and z axes and points out the right wing.
 
 **Assumptions:**
-What are **assumptions**? 
+What are **assumptions** and why **assume**?
 
--> 
+-> Assumptions 
 
 1. Aircraft is treated as a rigid body whose dynamics are comprised of three translational and three rotational degrees of freedom, hence 6-DoF motion.
 
@@ -37,13 +36,13 @@ What are **assumptions**?
 
 Motion can be described by:
 1. Translational Motion:
-  a.
-  b.
-  c.
+  a. Forward Velocity $\textit{u}$ (positive along the fuselage-body x-axis)
+  b. Lateral Velocity $\textit{v}$ (positive along the right-wing-body y-axis)
+  c. Vertical Velocity $\textit{w}$ (positive down and along the body z-axis)
 
 
 2. Rotational Motion:
-  a.
+  a. 
   b.
   c.
 
