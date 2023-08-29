@@ -36,11 +36,12 @@ What are **assumptions** and why **assume**?
 
 Motion can be described by:
 1. Translational Motion:
-  a. Forward Velocity $\textit{u}$ (positive along the fuselage-body x-axis)
 
-  b. Lateral Velocity $\textit{v}$ (positive along the right-wing-body y-axis)
+    a. Forward Velocity $\textit{u}$ (positive along the fuselage-body x-axis)
 
-  c. Vertical Velocity $\textit{w}$ (positive down and along the body z-axis)
+    b. Lateral Velocity $\textit{v}$ (positive along the right-wing-body y-axis)
+
+    c. Vertical Velocity $\textit{w}$ (positive down and along the body z-axis)
 
 
 2. Rotational Motion:
