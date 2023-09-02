@@ -62,9 +62,10 @@ The 6-DoF aircraft equations of motion can be written as:
 Translational Degree of Freedom: 
 ```math
  $\begin{pmatrix}
-  a & b\\ 
-  c & d
-\end{pmatrix}$
+  \dot{u}\\ 
+  \dot{v}\\
+  \dot{w}
+\end{pmatrix}
 ```
 
 
