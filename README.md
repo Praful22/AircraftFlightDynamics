@@ -60,7 +60,7 @@ Motion can be described by:
 The 6-DoF aircraft equations of motion can be written as:
 
 Translational Degree of Freedom: 
-[!Derivatives](https://latex.codecogs.com/svg.image?\begin{pmatrix}\dot{u}\\\dot{v}\\\dot{w}\end{pmatrix})
+equation
 
 
 
