@@ -24,6 +24,8 @@ Ans: To describe any phenomenon of a system (single/multiple particle system or 
 What is a **body-axes coordinate system**?
 
 Ans: A coordinate system fixed to the airplane. The origin is at the center of gravity; the x-axis is in the airplane plane of symmetry and points out the nose of the airplane; the z-axis is in the plane of symmetry and points downward, and the y-axis is perpendicular to the x and z axes and points out the right wing.
+![Sketch](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/d958eda9-7a2e-489e-aa57-bd01f76c9d32)
+
 
 **Assumptions:**
 What are **assumptions** and why **assume**?
