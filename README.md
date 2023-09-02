@@ -47,13 +47,19 @@ Motion can be described by:
     c. Vertical Velocity $\textit{w}$ (positive down and along the body z-axis)
 
 
-2. Rotational Motion:
+2. Rotational degrees of freedom representing rotational motion:
 
-    a.
+    a. Body roll rate _p_(around the x-axis)
 
-    b.
+    b. Body pitch rate _q_(around the y-axis)
 
-    c.
+    c. Body yaw rate _r_(around the z-axis)
+
+   Caveat: Positive angular rates(p,q,r) result in the counterclockwise rotations around their respective axis (x,y,z).
+
+The 6-DoF aircraft equations of motion can be written as:
+
+Translational Degree of Freedom: $m 
 
 
 
