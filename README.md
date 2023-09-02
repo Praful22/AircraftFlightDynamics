@@ -49,17 +49,25 @@ Motion can be described by:
 
 2. Rotational degrees of freedom representing rotational motion:
 
-    a. Body roll rate _p_(around the x-axis)
+    a. Body roll rate $\textit{p}$ (around the x-axis)
 
-    b. Body pitch rate _q_(around the y-axis)
+    b. Body pitch rate $\textit{q}$ (around the y-axis)
 
-    c. Body yaw rate _r_(around the z-axis)
+    c. Body yaw rate $\textit{r}$ (around the z-axis)
 
    Caveat: Positive angular rates(p,q,r) result in the counterclockwise rotations around their respective axis (x,y,z).
 
 The 6-DoF aircraft equations of motion can be written as:
 
-Translational Degree of Freedom: $m 
+Translational Degree of Freedom: 
+$ m \[
+\begin{pmatrix}
+\dot{u} \\
+\dot{v} \\
+\dot{w}
+\end{pmatrix}
+\] $
+
 
 
 
