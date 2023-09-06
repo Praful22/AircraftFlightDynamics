@@ -66,8 +66,7 @@ Translational Degree of Freedom:
   \dot{v}\\
   \dot{w}
 \end{pmatrix}
- = - [ \begin{pmatrix}
-    \
+ =
 
 ```
 
