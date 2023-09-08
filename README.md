@@ -67,7 +67,7 @@ Translational Degree of Freedom:
   \dot{w}
 \end{pmatrix}
  =
-\left[ \begin{pmatrix}
+- \left[ \begin{pmatrix}
 p\\
 q\\
 r
@@ -79,6 +79,57 @@ v\\
 w
 \end{pmatrix}
 \right]
++
+\begin{pmatrix}
+Fx\\
+Fy\\
+Fz
+\end{pmatrix}
++
+
+\begin{aligned}
+& m\left(\begin{array}{c}
+\dot{u} \\
+\dot{v} \\
+\dot{w}
+\end{array}\right)=-\left[\left(\begin{array}{c}
+p \\
+q \\
+r
+\end{array}\right) \times\left(\begin{array}{c}
+u \\
+v \\
+w
+\end{array}\right)\right]+\left(\begin{array}{c}
+F_x \\
+F_y \\
+F_z
+\end{array}\right) \\
+& +m \underbrace{m \underbrace{\|\vec{g}\|}_g\left(\begin{array}{c}
+-\sin \theta \\
+\cos \theta \sin \varphi \\
+\cos \theta \cos \varphi
+\end{array}\right)}_{\vec{g}} \\
+& J\left(\begin{array}{c}
+\dot{p} \\
+\dot{q} \\
+\dot{r}
+\end{array}\right)=-\left[\left(\begin{array}{c}
+p \\
+q \\
+r
+\end{array}\right) \times J\left(\begin{array}{c}
+p \\
+q \\
+r
+\end{array}\right)\right]+\left(\begin{array}{c}
+\bar{L} \\
+M \\
+N
+\end{array}\right) \\
+&
+\end{aligned}
+
 ```
 
 
