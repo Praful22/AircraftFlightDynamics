@@ -84,7 +84,12 @@ F_z
 \cos \theta \sin \varphi \\
 \cos \theta \cos \varphi
 \end{array}\right)}_{\vec{g}} \\
-& J\left(\begin{array}{c}
+\end{aligned}
+
+Rotational Degree of Freedom:
+
+\begin{aligned}
+ J\left(\begin{array}{c}
 \dot{p} \\
 \dot{q} \\
 \dot{r}
