@@ -108,6 +108,9 @@ N
 \end{array}\right) \\
 &
 \end{aligned}
+m = aircraft mass
+J = 
+
 ```
 
 
