@@ -85,9 +85,9 @@ F_z
 \cos \theta \cos \varphi
 \end{array}\right)}_{\vec{g}} \\
 \end{aligned}
-
+```
 Rotational Degree of Freedom:
-
+```math
 \begin{aligned}
  J\left(\begin{array}{c}
 \dot{p} \\
@@ -108,7 +108,6 @@ N
 \end{array}\right) \\
 &
 \end{aligned}
-
 ```
 
 
