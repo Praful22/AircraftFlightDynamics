@@ -113,7 +113,7 @@ m = aircraft mass \\
 J \in \mathbb{R}^{3 \times \3} = Vehicle Inertia Matrix \\
 \underbrace(F_x, F_y, F_z) = Body (x,y,z) components of forces \\
 (\bar{L}, M, N) = Body (x,y,z) components of Moments \\)_Due to Aerodynamics and Propulsion
-
+\end{aligned}
 ```
 
 
