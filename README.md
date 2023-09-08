@@ -107,7 +107,8 @@ M \\
 N
 \end{array}\right) \\
 \end{aligned}
-
+```
+```math
 \begin{aligned}
 m = aircraft mass \\
 J \in \mathbb{R}^{3 \times \3} = Vehicle Inertia Matrix \\
