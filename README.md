@@ -61,32 +61,6 @@ The 6-DoF aircraft equations of motion may be modeled as:
 
 Translational Degree of Freedom: 
 ```math
- m \begin{pmatrix}
-  \dot{u}\\ 
-  \dot{v}\\
-  \dot{w}
-\end{pmatrix}
- =
-- \left[ \begin{pmatrix}
-p\\
-q\\
-r
-\end{pmatrix}
-\times
-\begin{pmatrix}
-u\\
-v\\
-w
-\end{pmatrix}
-\right]
-+
-\begin{pmatrix}
-Fx\\
-Fy\\
-Fz
-\end{pmatrix}
-+
-
 \begin{aligned}
 & m\left(\begin{array}{c}
 \dot{u} \\
@@ -105,7 +79,7 @@ F_x \\
 F_y \\
 F_z
 \end{array}\right) \\
-& +m \underbrace{m \underbrace{\|\vec{g}\|}_g\left(\begin{array}{c}
+& +m \underbrace{\underbrace{\|\vec{g}\|}_g\left(\begin{array}{c}
 -\sin \theta \\
 \cos \theta \sin \varphi \\
 \cos \theta \cos \varphi
