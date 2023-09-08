@@ -67,12 +67,17 @@ Translational Degree of Freedom:
   \dot{w}
 \end{pmatrix}
  =
-\begin{pmatrix}
+[\begin{pmatrix}
 p\\
 q\\
-r\\
+r
 \end{pmatrix}
-
+\times
+\begin{pmatrix}
+u\\
+v\\
+w
+\end{pmatrix}
 ```
 
 
