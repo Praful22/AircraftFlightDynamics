@@ -68,9 +68,9 @@ Translational Degree of Freedom:
 \end{pmatrix}
  =
 \begin{pmatrix}
-\p\\
-\q\\
-\r\\
+p\\
+q\\
+r\\
 \end{pmatrix}
 
 ```
