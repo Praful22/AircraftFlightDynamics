@@ -109,12 +109,12 @@ N
 \end{aligned}
 ```
 ```math
-\begin{aligned}
-m = aircraft mass \\
-J \in \mathbb{R}^{3 \times \3} = Vehicle Inertia Matrix \\
-\underbrace(F_x, F_y, F_z) = Body (x,y,z) components of forces \\
-(\bar{L}, M, N) = Body (x,y,z) components of Moments \\)_Due to Aerodynamics and Propulsion
-\end{aligned}
+\begin{align*}
+m &= \text{aircraft mass} \\
+J &\in \mathbb{R}^{3 \times 3} = \text{Vehicle Inertia Matrix} \\
+(F_x, F_y, F_z) &= \text{Body (x,y,z) components of forces} \\
+(\bar{L}, M, N) &= \text{Body (x,y,z) components of Moments Due to Aerodynamics and Propulsion}
+\end{align*}
 ```
 
 
