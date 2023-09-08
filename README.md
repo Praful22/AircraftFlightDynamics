@@ -67,6 +67,11 @@ Translational Degree of Freedom:
   \dot{w}
 \end{pmatrix}
  =
+\begin{pmatrix}
+\p\\
+\q\\
+\r\\
+\end{pmatrix}
 
 ```
 
