@@ -108,6 +108,8 @@ N
 \end{array}\right) \\
 \end{aligned}
 ```
+where, 
+
 ```math
 \begin{align*}
 m &= \text{aircraft mass} \\
