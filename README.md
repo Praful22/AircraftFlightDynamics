@@ -78,7 +78,7 @@ w
 F_x \\
 F_y \\
 F_z
-\end{array}\right) \\
+\end{array}\right)
 + m \underbrace{\underbrace{\|\vec{g}\|}_g\left(\begin{array}{c}
 -\sin \theta \\
 \cos \theta \sin \varphi \\
