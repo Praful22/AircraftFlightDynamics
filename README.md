@@ -57,7 +57,7 @@ Motion can be described by:
 
    Caveat: Positive angular rates(p,q,r) result in the counterclockwise rotations around their respective axis (x,y,z).
 
-The 6-DoF aircraft equations of motion can be written as:
+The 6-DoF aircraft equations of motion may be modeled as:
 
 Translational Degree of Freedom: 
 ```math
