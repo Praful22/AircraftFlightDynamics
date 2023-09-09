@@ -115,7 +115,9 @@ where,
 m &= \text{aircraft mass} \\
 J &\in \mathbb{R}^{3 \times 3} = \text{Vehicle Inertia Matrix} \\
 (F_x, F_y, F_z) = &\underbrace{ \text{Body (x,y,z) components of forces}}_{Due to Aerodynamics and Propulsion} \\
-(\bar{L}, M, N) = &\underbrace{ \text{Body (x,y,z) components of Moments}}_{Due to Aerodynamics and Propulsion}
+(\bar{L}, M, N) = &\underbrace{ \text{Body (x,y,z) components of Moments}}_{Due to Aerodynamics and Propulsion} \\
+\vec{g} = gravity vector \\
+g = \|\vec{g}\| 
 \end{align*}
 
 ```
