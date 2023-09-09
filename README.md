@@ -117,7 +117,8 @@ J &\triangleq \text{Vehicle Inertia Matrix} \\
 (F_x, F_y, F_z) &\triangleq \underbrace{\text{Body (x,y,z) components of forces}}_{\text{Due to Aerodynamics and Propulsion}} \\
 (\bar{L}, M, N) &\triangleq \underbrace{\text{Body (x,y,z) components of Moments}}_{\text{Due to Aerodynamics and Propulsion}} \\
 \vec{g} &\triangleq \text{gravity vector} \\
-g &\triangleq \|\vec{g}\|
+g = \|\vec{g}\| &\triangleq \text{Magnitude of the gravity vector}\\
+
 \end{align*}
 
 ```
