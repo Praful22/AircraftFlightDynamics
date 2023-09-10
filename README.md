@@ -121,7 +121,7 @@ g = \|\vec{g}\| &\triangleq \text{Magnitude of the gravity vector}\\
 \text{Gravity Vector expressed in the aircraft body axes coordinates, in terms of} \\
 \phi &\triangleq \text{vehicle bank angle. Positive: Aircraft's right-wing down} \\
 \theta &\triangleq \text{Pitch angle. Positive: Aircraft nose-up} \\
-\psi $\triangleq \text{True heading angle. Positive: Clockwise rotation of the aircraft nose from the true north direction} \\
+\psi &\triangleq \text{True heading angle. Positive: Clockwise rotation of the aircraft nose from the true north direction} \\
 \text{Three Euler angles} (\phi, \theta, \psi) \text{represent inertial angular orientation of the aircraft}
 \end{align*}
 
