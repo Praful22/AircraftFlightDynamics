@@ -117,10 +117,18 @@ J &\triangleq \text{Vehicle Inertia Matrix} \\
 (F_x, F_y, F_z) &\triangleq \underbrace{\text{Body (x,y,z) components of forces}}_{\text{Due to Aerodynamics and Propulsion}} \\
 (\bar{L}, M, N) &\triangleq \underbrace{\text{Body (x,y,z) components of Moments}}_{\text{Due to Aerodynamics and Propulsion}} \\
 \vec{g} &\triangleq \text{gravity vector} \\
-g &\triangleq \|\vec{g}\|
+g &\triangleq \|\vec{g}\| \text{Magnitude of the gravity vector}\\
 \end{align*}
 ```
+The gravity vector is expressed in the aircraft body axes coordinates in terms of the following:
 
+```math
+\begin{align*}
+\phi &\triangleq \text{vehicle bank angle. Positive: Aircraft's right-wing down} \\
+\theta &\triangleq \text{Pitch angle. Positive: Aircraft nose-up} \\
+\psi &\triangleq \text{True heading angle. Positive: Clockwise rotation of the aircraft nose from the true north direction} \\
+\end{align*}
+```
 
 
 
