@@ -111,6 +111,7 @@ N
 where, 
 
 ```math
+\begin{align*}
 m &\triangleq \text{aircraft mass} \\
 J &\triangleq \text{Vehicle Inertia Matrix} \\
 (F_x, F_y, F_z) &\triangleq \text{Body (x,y,z) components of forces} \underbrace{\text{Due to Aerodynamics and Propulsion}} \\
@@ -122,6 +123,7 @@ g = \|\vec{g}\| &\triangleq \text{Magnitude of the gravity vector}\\
 \theta &\triangleq \text{Pitch angle. Positive: Aircraft nose-up} \\
 \psi &\triangleq \text{True heading angle. Positive: Clockwise rotation of the aircraft nose from the true north direction} \\
 \text{Three Euler angles} (\phi, \theta, \psi) &\text{represent inertial angular orientation of the aircraft}
+\end{align*}
 ```
 
 
