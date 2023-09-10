@@ -129,6 +129,7 @@ The gravity vector is expressed in the aircraft body axes coordinates in terms o
 \psi &\triangleq \text{True heading angle. Positive: Clockwise rotation of the aircraft nose from the true north direction} \\
 \end{align*}
 ```
+The three Euler angles $(\phi, \theta, \psi)$ give inertial angular orientation of aircraft.
 
 
 
