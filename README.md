@@ -117,7 +117,7 @@ J &\triangleq \text{Vehicle Inertia Matrix} \\
 (F_x, F_y, F_z) &\triangleq \underbrace{\text{Body (x,y,z) components of forces}}_{\text{Due to Aerodynamics and Propulsion}} \\
 (\bar{L}, M, N) &\triangleq \underbrace{\text{Body (x,y,z) components of Moments}}_{\text{Due to Aerodynamics and Propulsion}} \\
 \vec{g} &\triangleq \text{gravity vector} \\
-g &\triangleq \|\vec{g}\| \text{Magnitude of the gravity vector}\\
+g &\triangleq \|\vec{g}\| = \text{Magnitude of the gravity vector}\\
 \end{align*}
 ```
 The gravity vector is expressed in the aircraft body axes coordinates in terms of the following:
@@ -129,7 +129,7 @@ The gravity vector is expressed in the aircraft body axes coordinates in terms o
 \psi &\triangleq \text{True heading angle. Positive: Clockwise rotation of the aircraft nose from the true north direction} \\
 \end{align*}
 ```
-The three Euler angles $(\phi, \theta, \psi)$ give the inertial angular orientation of aircraft, if treated as a rigid body moving in three-dimenstional
+The three Euler angles $(\phi, \theta, \psi)$ give the inertial angular orientation of aircraft, if treated as a rigid body moving in three-dimensional
 inertial space.
 
 
