@@ -132,7 +132,7 @@ The gravity vector is expressed in the aircraft body axes coordinates in terms o
 The three Euler angles $(\phi, \theta, \psi)$ represent the inertial angular orientation of aircraft, if treated as a 
 rigid body moving in three-dimensional inertial space.
 
-The following kinematics relations describe the dynamics of the Euler angles versus the aircraft body angular rates ($\textit{p},$\textit{q},$\textit{r}):
+The following kinematics relations describe the dynamics of the Euler angles versus the aircraft body angular rates ($\textit{p},\textit{q},\textit{r}$):
 
 ```math
 \begin{align*}
