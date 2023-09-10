@@ -114,12 +114,13 @@ where,
 \begin{align*}
 m &\triangleq \text{aircraft mass} \\
 J &\triangleq \text{Vehicle Inertia Matrix} \\
-(F_x, F_y, F_z) &\triangleq \text{Body (x,y,z) components of forces} \underbrace{\text{Due to Aerodynamics and Propulsion}} \\
-(\bar{L}, M, N) &\triangleq \text{Body (x,y,z) components of Moments} \underbrace{\text{Due to Aerodynamics and Propulsion}} \\
+(F_x, F_y, F_z) &\triangleq \underbrace{\text{Body (x,y,z) components of forces}}_{\text{Due to Aerodynamics and Propulsion}} \\
+(\bar{L}, M, N) &\triangleq \underbrace{\text{Body (x,y,z) components of Moments}}_{\text{Due to Aerodynamics and Propulsion}} \\
 \vec{g} &\triangleq \text{gravity vector} \\
-g = \|\vec{g}\| &\triangleq \text{Magnitude of the gravity vector}\\
+g &\triangleq \|\vec{g}\|
 \end{align*}
 ```
+
 
 
 
