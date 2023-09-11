@@ -165,7 +165,7 @@ The aircraft 6-Degree of Freedom (6 DoF) state vector is given by:
 
 ```math
 \begin{align*}
-\vec{x} &\eq \left(\begin{array}{c}
+\vec{x} = \left(\begin{array}{c}
 u \\
 v \\
 w \\
