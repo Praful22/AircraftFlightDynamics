@@ -132,7 +132,7 @@ The gravity vector is expressed in the aircraft body axes coordinates in terms o
 The three Euler angles $(\phi, \theta, \psi)$ represent the inertial angular orientation of aircraft, if treated as a 
 rigid body moving in three-dimensional inertial space.
 
-The following kinematics relation describe the dynamics of the Euler angles versus the aircraft body angular rates ($\textit{p},\textit{q},\textit{r}$):
+The following kinematics relation describes the dynamics of the Euler angles versus the aircraft body angular rates ($\textit{p},\textit{q},\textit{r}$):
 
 ```math
 \begin{align*}
@@ -151,6 +151,34 @@ r
 \end{array}\right)
 \end{align*}
 ```
+
+Now,
+
+**State Vector**: A mathematical representation used to describe the complete state of the dynamic system at a specific point in time.
+***Why State Vector?*** 
+1. A state vector captures all the essential information needed to describe the system's current state. For example, in the case of a moving object, it would include its position, velocity, and possibly acceleration in three-dimensional space.
+2. State vectors are particularly important for dynamic systems, where the system's behavior changes over time. By updating the state vector as time progresses, you can predict future states and behaviors.
+There are many reasons why state vector is essential. We will go into detail later.
+
+The aircraft 6-Degree of Freedom (6 DoF) state vector is given by:
+
+```math
+\begin{align*}
+\left(\begin{array}{c}
+u \\
+v \\
+w \\
+p \\
+q \\
+r \\
+\phi \\
+\theta \\
+\psi
+\end{array}\right)
+\end{align*}
+```
+
+
 
 
 
