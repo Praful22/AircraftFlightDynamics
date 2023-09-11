@@ -180,6 +180,8 @@ r \\
 \end{align*}
 ```
 
+With n = 9 states in the system dynamics.
+
 
 
 
