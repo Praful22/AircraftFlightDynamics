@@ -159,13 +159,13 @@ Now,
 ***Why State Vector?*** 
 1. A state vector captures all the essential information needed to describe the system's current state. For example, in the case of a moving object, it would include its position, velocity, and possibly acceleration in three-dimensional space.
 2. State vectors are particularly important for dynamic systems, where the system's behavior changes over time. By updating the state vector as time progresses, you can predict future states and behaviors.
-There are many reasons why state vector is essential. We will go into detail later.
+There are many reasons why a state vector is essential. We will go into much detail later.
 
 The aircraft 6-Degree of Freedom (6 DoF) state vector is given by:
 
 ```math
 \begin{align*}
-\vec{x} = \left(\begin{array}{c}
+\vec{x} &\triangleq \left(\begin{array}{c}
 u \\
 v \\
 w \\
