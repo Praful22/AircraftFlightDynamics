@@ -190,15 +190,19 @@ With n = 9 states in the system dynamics.
 There are four primary control inputs to an aircraft. They are as follows:
 
 1. Ailerons (Left and Right ailerons, $\delta_{left ail}, \delta_{right ail}$): The differential aileron $\delta_{a} = \delta_{left ail} - \delta_{right ail}$ is the primary roll control input.
+
+
 ![IMG_5880](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/2f67812a-4388-4946-a92c-cb772ec44b95)
 
 
-2. Horizontal Stabilizers : 
-3. Elevator : 
-4. Rudder : 
+3. Horizontal Stabilizers : 
+4. Elevator : 
+5. Rudder : 
 ![image](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/8cbff590-f9a5-473d-ba44-37aa40ac6f50)
 
-If the aircraft is not a glider then another primary control input will be 
+
+
+If the aircraft is not a glider then additional primary control input will be 
 
 5. Thrust force ($\delta_{th}$) created by either propellers or jet engines.
 
