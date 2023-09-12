@@ -210,5 +210,17 @@ If the aircraft is not a glider then additional primary control input will be
 
 5. **Thrust force** ($\delta_{th}$): Created by either propellers or jet engines which provide airspeed control.
 
+Disregarding horizontal stabilizers, the aircraft's primary control vector inputs are shown below:
 
 
+```math
+\begin{align*}
+
+\vec{u} &\triangleq \left(\begin{array}{c}
+\delta_{th} \\
+\delta_a \\
+\delta_e \\
+\delta_r
+\end{array}\right)
+\end{align*}
+```
