@@ -198,8 +198,7 @@ There are four primary control inputs to an aircraft. They are as follows:
 
 3. **Elevator**: Controls the pitching motion of the aircraft.
 
-![image](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/fcb90b26-641b-46f9-8a91-52eaa1d8f00a)
-
+<img src="https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/fcb90b26-641b-46f9-8a91-52eaa1d8f00a" width="500" heigh="500">
 
 
 4. **Rudder**: Controls the yawing motion of the aircraft.
