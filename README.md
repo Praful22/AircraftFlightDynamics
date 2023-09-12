@@ -201,7 +201,7 @@ There are four primary control inputs to an aircraft. They are as follows:
 <img src="https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/fcb90b26-641b-46f9-8a91-52eaa1d8f00a" width="500" height="500">
 
 
-4. **Rudder**: Controls the yawing motion of the aircraft.
+4. **Rudder**: Controls the yawing motion of the aircraft ($\delta_r).
 
 <img src="https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/8cbff590-f9a5-473d-ba44-37aa40ac6f50" width="500" height="500">
 
