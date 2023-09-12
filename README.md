@@ -192,12 +192,14 @@ There are four primary control inputs to an aircraft. They are as follows:
 1. Ailerons :
 
 
-3. Horizontal Stabilizers : 
-4. Elevator : 
-5. Rudder : 
+2. Horizontal Stabilizers : 
+3. Elevator : 
+4. Rudder : 
 ![image](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/8cbff590-f9a5-473d-ba44-37aa40ac6f50)
 
-If the aircraft is not a glider then another primary control input will be 5. Thrust force $(\delta_th) created by either propellers or jet engines.
+If the aircraft is not a glider then another primary control input will be 
+
+5. Thrust force $(\delta_th)$ created by either propellers or jet engines.
 
 
 
