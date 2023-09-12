@@ -2,6 +2,7 @@
 
 Let's start by looking at **an aircraft and its controls.**
 
+## Aircraft
 What is **an aircraft**?
 
 Ans: "Craft or vessel which navigates through the air."
@@ -27,6 +28,8 @@ Ans: A coordinate system fixed to the airplane. The origin is at the center of g
 ![Sketch](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/d958eda9-7a2e-489e-aa57-bd01f76c9d32)
 
 The origin of the coordinate system is at the center of gravity represented by the black dot in the above figure. 
+
+## Equations of Motions
 
 **Assumptions:**
 What are **assumptions** and why **assume**?
@@ -182,6 +185,7 @@ r \\
 
 With n = 9 states in the system dynamics.
 
+## Primary Control Inputs
 
 
 
