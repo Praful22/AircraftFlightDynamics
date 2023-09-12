@@ -199,7 +199,7 @@ There are four primary control inputs to an aircraft. They are as follows:
 
 If the aircraft is not a glider then another primary control input will be 
 
-5. Thrust force $(\delta_{th})$ created by either propellers or jet engines.
+5. Thrust force $\delta_{th}$ created by either propellers or jet engines.
 
 
 
