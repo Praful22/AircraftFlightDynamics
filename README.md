@@ -191,13 +191,11 @@ There are four primary control inputs to an aircraft. They are as follows:
 
 1. Ailerons (Left and Right ailerons, $\delta_{left ail}, \delta_{right ail}$): The differential aileron $\delta_{a} = \delta_{left ail} - \delta_{right ail}$ is the primary roll control input.
 
+![image](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/b3749d8f-19c4-4d8f-9290-02f45f62dd96)
 
-![IMG_5880](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/2f67812a-4388-4946-a92c-cb772ec44b95)
-
-
-3. Horizontal Stabilizers : 
-4. Elevator : 
-5. Rudder : 
+2. Horizontal Stabilizers : 
+3. Elevator : 
+4. Rudder : 
 ![image](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/8cbff590-f9a5-473d-ba44-37aa40ac6f50)
 
 
