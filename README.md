@@ -189,7 +189,8 @@ With n = 9 states in the system dynamics.
 
 There are four primary control inputs to an aircraft. They are as follows:
 
-1. Ailerons :
+1. Ailerons : 
+![IMG_5880](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/2f67812a-4388-4946-a92c-cb772ec44b95)
 
 
 2. Horizontal Stabilizers : 
