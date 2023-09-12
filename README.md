@@ -224,3 +224,5 @@ Disregarding horizontal stabilizers, the aircraft's primary control vector input
 \end{array}\right)
 \end{align*}
 ```
+
+By changing the individual control input, the aircraft dynamics can be modified to fly and maneuver the aircraft.
