@@ -195,9 +195,11 @@ There are four primary control inputs to an aircraft. They are as follows:
 
 ![image](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/b3749d8f-19c4-4d8f-9290-02f45f62dd96)
 
-2. **Horizontal Stabilizers**: 
+2. **Horizontal Stabilizers**: Slow-movable surface used to trim/equalize the aircraft's longitudinal forces and moments.
 
-3. **Elevator** : 
+3. **Elevator**: Controls the pitching motion of the aircraft.
+![image](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/78d79c3a-689a-4cef-a4b4-b89a18d694b8)
+
 
 4. **Rudder** : 
 ![image](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/8cbff590-f9a5-473d-ba44-37aa40ac6f50)
