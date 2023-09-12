@@ -189,7 +189,7 @@ With n = 9 states in the system dynamics.
 
 There are four primary control inputs to an aircraft. They are as follows:
 
-1. Ailerons : 
+1. Ailerons (Left and Right ailerons, $\delta_{left ail}, \delta_{right ail}$): The differential aileron $\delta_{a} = \delta_{left ail} - \delta_{right ail}$ is the primary roll control input.
 ![IMG_5880](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/2f67812a-4388-4946-a92c-cb772ec44b95)
 
 
