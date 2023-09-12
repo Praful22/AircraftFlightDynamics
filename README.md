@@ -132,8 +132,9 @@ The gravity vector is expressed in the aircraft body axes coordinates in terms o
 \psi &\triangleq \text{True heading angle. Positive: Clockwise rotation of the aircraft nose from the true north direction} \\
 \end{align*}
 ```
-The three Euler angles $(\phi, \theta, \psi)$ represent the inertial angular orientation of aircraft, if treated as a 
+The three Euler angles $(\phi, \theta, \psi)$ represent the inertial angular orientation of aircraft if treated as a 
 rigid body moving in three-dimensional inertial space.
+## TODO: ADD a picture representing the Euler angles.
 
 The following kinematics relation describes the dynamics of the Euler angles versus the aircraft body angular rates ($\textit{p},\textit{q},\textit{r}$):
 
@@ -195,7 +196,7 @@ There are four primary control inputs to an aircraft. They are as follows:
 
 ![image](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/b3749d8f-19c4-4d8f-9290-02f45f62dd96)
 
-2. **Horizontal Stabilizers**: Slow-movable surface used to trim/equalize the aircraft's longitudinal forces and moments.
+2. **Horizontal Stabilizers**: Slow-movable surface control used to trim/equalize the aircraft's longitudinal forces and moments.
 
 3. **Elevator**: Controls the pitching motion of the aircraft.
 
@@ -203,14 +204,14 @@ There are four primary control inputs to an aircraft. They are as follows:
 
 
 
-4. **Rudder** : 
+4. **Rudder**: Controls the yawing motion of the aircraft.
 ![image](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/8cbff590-f9a5-473d-ba44-37aa40ac6f50)
 
 
 
 If the aircraft is not a glider then additional primary control input will be 
 
-5. **Thrust force** ($\delta_{th}$): Created by either propellers or jet engines
+5. **Thrust force** ($\delta_{th}$): Created by either propellers or jet engines which provide airspeed control.
 
 
 
