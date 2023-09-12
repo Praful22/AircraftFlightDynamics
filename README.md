@@ -194,7 +194,7 @@ There are four primary control inputs to an aircraft. They are as follows:
 
 
 
-![image](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/b3749d8f-19c4-4d8f-9290-02f45f62dd96)
+![image](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/b3749d8f-19c4-4d8f-9290-02f45f62dd96 | width =100)
 
 2. **Horizontal Stabilizers**: Slow-movable surface control used to trim/equalize the aircraft's longitudinal forces and moments.
 
