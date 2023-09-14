@@ -226,3 +226,8 @@ Disregarding horizontal stabilizers, the aircraft's primary control vector input
 ```
 
 By changing the individual control input, the aircraft dynamics can be modified to fly and maneuver the aircraft.
+
+## System Output
+
+The system output signals can be defined based on the availability of physical measurement devices that are installed on the aircraft.
+
