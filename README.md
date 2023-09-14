@@ -232,7 +232,8 @@ By changing the individual control input, the aircraft dynamics can be modified 
 The system output signals can be defined based on the availability of physical measurement devices that are installed on the aircraft.
 
 What are the physical measurement devices on an aircraft?
-1. **Rate Gyroscopes**: Measures the body angular velocity or rate of rotation of an object about one or more axes. Hence, $\textit{(p,q,r)}$ is measured by a rate gyroscope which is attached close to the Center of Gravity and is configured accordingly to provide three Euler Angles 
+1. **Rate Gyroscopes**: Measures the body angular velocity or rate of rotation of an object about one or more axes. Hence, $\textit{(p,q,r)}$ is measured by a rate gyroscope which is attached close to the Center of Gravity and is configured accordingly to provide three Euler Angles
+
 ```math
 (\phi, \theta, \psi)
 ```
