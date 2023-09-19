@@ -250,7 +250,7 @@ A_{z} = \frac{F_{z}}{mg}
 
         a. Vane Type AoA Indicator: This uses a vane exposed to the relative wind to measure the angle of attack.
 
-        b. Pressure-Based AoA Probe: Some aircraft use pressure sensors on the wing's leading edge to measure the pressure difference between the upper and lower surfaces. This pressure   difference is then used to calculate the AoA.
+        b. Pressure-Based AoA Probe: Some aircraft use pressure sensors on the wing's leading edge to measure the pressure difference between the upper and lower surfaces. This pressure difference is then used to calculate the AoA.
 
         c. Angle of Attack Vanes: These are physical vanes attached to the wing that directly measure the AoA. 
 
@@ -258,11 +258,11 @@ A_{z} = \frac{F_{z}}{mg}
 
 5. **Pitot-Static System**: True airspeed is the actual speed of the aircraft through the air, corrected for altitude and temperature ($V_{T}$). TAS is typically measured using a **pitot-static system, which includes:**
 
-        a. Pitot Tube: This is a forward-facing tube on the aircraft that measures the pressure of the oncoming air. The dynamic pressure (ram air pressure) is used to determine the       indicated airspeed (IAS).
+        a. Pitot Tube: This is a forward-facing tube on the aircraft that measures the pressure of the oncoming air. The dynamic pressure (ram air pressure) is used to determine the indicated airspeed (IAS).
 
         b. Static Ports: These are static pressure ports typically located on the sides of the aircraft. They measure the atmospheric pressure at the aircraft's current altitude.
 
-        c. Air Data Computer (ADC): The pitot and static pressure measurements are fed into an ADC, which computes the TAS by correcting the IAS for altitude (pressure altitude) and      temperature.
+        c. Air Data Computer (ADC): The pitot and static pressure measurements are fed into an ADC, which computes the TAS by correcting the IAS for altitude (pressure altitude) and temperature.
 
         d. Outside Air Temperature (OAT) Probe: Temperature is a factor in the TAS calculation, so an OAT probe is used to measure the temperature of the ambient air.
 
