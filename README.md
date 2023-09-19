@@ -286,4 +286,4 @@ V_{T} = \sqrt{u^2+v^2+w^2}
 \vec{y} = (A_x, A_y, A_z, V_T, \beta, \alpha, p, q, r, \phi, \theta, \psi)
 \end{align*}
 ```
-with n_y = 12 components.
+with $n_y$ = 12 components.
