@@ -266,3 +266,4 @@ A_{z} = \frac{F_{z}}{mg}
 
         d. Outside Air Temperature (OAT) Probe: Temperature is a factor in the TAS calculation, so an OAT probe is used to measure the temperature of the ambient air.
 
+
