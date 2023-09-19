@@ -246,10 +246,13 @@ A_{y} = \frac{F_{y}}{mg} \\
 A_{z} = \frac{F_{z}}{mg}
 \end{align*}
 ```
-3. **Angle of Attack Probe or Angle of Attack Indicator**: AoA is the angle($\alpha$) between the oncoming air and the chord line of the wing. It's a critical parameter for controlling the aircraft's lift and stall characteristics. AoA is typically measured using an instrument called an "angle of attack indicator" or "AoA probe." The most common types of AoA probes include:
-    a. Vane Type AoA Indicator: This uses a vane exposed to the relative wind to measure the angle of attack.
-    b. Pressure-Based AoA Probe: Some aircraft use pressure sensors on the wing's leading edge to measure the pressure difference between the upper and lower surfaces. This pressure                                         difference is then used to calculate the AoA.
-    c. Angle of Attack Vanes: These are physical vanes attached to the wing that directly measure the AoA. 
+3. **Angle of Attack Probe or Angle of Attack Indicator**: AoA is the angle($\alpha$) between the oncoming air and the chord line of the wing. It's a critical parameter for controlling the aircraft's lift and stall characteristics. AoA is typically measured using an instrument called an "angle of attack indicator" or "AoA probe." The most common types of **AoA probes include**:
+
+        a. Vane Type AoA Indicator: This uses a vane exposed to the relative wind to measure the angle of attack.
+
+        b. Pressure-Based AoA Probe: Some aircraft use pressure sensors on the wing's leading edge to measure the pressure difference between the upper and lower surfaces. This pressure                                         difference is then used to calculate the AoA.
+
+        c. Angle of Attack Vanes: These are physical vanes attached to the wing that directly measure the AoA. 
 
 4. **Side Slip Indicator or Slip/Skid Indicator**: AoSS is the angle($\beta$) between the aircraft's longitudinal axis (the direction the aircraft is pointing) and the relative wind. It indicates how the aircraft is oriented with respect to the oncoming air. AoSS is often measured using a device called a "sideslip indicator" or "slip/skid indicator." This instrument usually includes a ball suspended in a curved tube, similar to a spirit level. When the ball is centered, the aircraft is in coordinated flight (no sideslip). When it's off-center, it indicates a sideslip condition. 
 
