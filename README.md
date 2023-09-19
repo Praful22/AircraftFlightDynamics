@@ -237,7 +237,12 @@ What are the physical measurement devices on an aircraft?
 ```math
 (\phi, \theta, \psi)
 ```
-2. **Accelerometers**: Provides online measurements of longitudinal, lateral, and vertical loads denoted by (A_x, A_y, A_z).
+2. **Accelerometers**: Provides online measurements of longitudinal, lateral, and vertical loads denoted by ($\A_{x}, \A_{y}, \A_{z}$) so at least three accelerometers are used. Each device measures an acceleration component ( in ft/s^2 or g-s) at the point of installation along its corresponding axis
+```math
+\begin{aligned}
+A_{x} = \frac{F_{x}}{mg}, A_{y} = \frac{F_{y}{mg}, A_{z} = \frac{F_{z}{mg}}
+\end{aligned}
+```
 3. **Angle of Attack Probe or Angle of Attack Indicator** :
 4. **Side Slip Indicator or Slip/Skid Indicator** :
 5. **Pitot-Static System** :
