@@ -262,6 +262,7 @@ A_{z} = \frac{F_{z}}{mg}
 ```math
 \begin{align*}
 \beta = \arcsin{\frac{v}{V_T}}
+\end{align*}
 ```
 5. **Pitot-Static System**: True airspeed is the actual speed of the aircraft through the air, corrected for altitude and temperature ($V_{T}$). TAS is typically measured using a **pitot-static system, which includes:**
 
