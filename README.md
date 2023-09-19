@@ -262,7 +262,7 @@ A_{z} = \frac{F_{z}}{mg}
 ```math
 \begin{align*}
 \beta = \arcsin{\frac{v}{V_T}}
-
+```
 5. **Pitot-Static System**: True airspeed is the actual speed of the aircraft through the air, corrected for altitude and temperature ($V_{T}$). TAS is typically measured using a **pitot-static system, which includes:**
 
         a. Pitot Tube: This is a forward-facing tube on the aircraft that measures the pressure of the oncoming air. The dynamic pressure (ram air pressure) is used to determine the indicated airspeed (IAS).
