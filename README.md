@@ -259,6 +259,9 @@ A_{z} = \frac{F_{z}}{mg}
 \end{align*}
 ```
 4. **Side Slip Indicator or Slip/Skid Indicator**: AoSS is the angle($\beta$) between the aircraft's longitudinal axis (the direction the aircraft is pointing) and the relative wind. It indicates how the aircraft is oriented with respect to the oncoming air. AoSS is often measured using a device called a "sideslip indicator" or "slip/skid indicator." This instrument usually includes a ball suspended in a curved tube, similar to a spirit level. When the ball is centered, the aircraft is in coordinated flight (no sideslip). When it's off-center, it indicates a sideslip condition. 
+```math
+\begin{align*}
+\beta = \arcsin{\frac{v}{V_T}}
 
 5. **Pitot-Static System**: True airspeed is the actual speed of the aircraft through the air, corrected for altitude and temperature ($V_{T}$). TAS is typically measured using a **pitot-static system, which includes:**
 
@@ -274,5 +277,11 @@ A_{z} = \frac{F_{z}}{mg}
 ```math
 \begin{align*}
 V_{T} = \sqrt{u^2+v^2+w^2}
+\end{align*}
+```
+###### Combining all these measurements, we may formulate a system output represented by the following equation:
+```math
+\begin{align*}
+\vec{y} = (A_x, A_y, A_z, V_T, \beta, \alpha, p, q, r, \phi, \theta, \psi)
 \end{align*}
 ```
