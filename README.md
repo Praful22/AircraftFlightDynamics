@@ -253,7 +253,11 @@ A_{z} = \frac{F_{z}}{mg}
         b. Pressure-Based AoA Probe: Some aircraft use pressure sensors on the wing's leading edge to measure the pressure difference between the upper and lower surfaces. This pressure difference is then used to calculate the AoA.
 
         c. Angle of Attack Vanes: These are physical vanes attached to the wing that directly measure the AoA. 
-
+```math
+\begin{align*}
+\alpha = \arctan{\frac{w}{u}}
+\end{align*}
+```
 4. **Side Slip Indicator or Slip/Skid Indicator**: AoSS is the angle($\beta$) between the aircraft's longitudinal axis (the direction the aircraft is pointing) and the relative wind. It indicates how the aircraft is oriented with respect to the oncoming air. AoSS is often measured using a device called a "sideslip indicator" or "slip/skid indicator." This instrument usually includes a ball suspended in a curved tube, similar to a spirit level. When the ball is centered, the aircraft is in coordinated flight (no sideslip). When it's off-center, it indicates a sideslip condition. 
 
 5. **Pitot-Static System**: True airspeed is the actual speed of the aircraft through the air, corrected for altitude and temperature ($V_{T}$). TAS is typically measured using a **pitot-static system, which includes:**
@@ -267,3 +271,8 @@ A_{z} = \frac{F_{z}}{mg}
         d. Outside Air Temperature (OAT) Probe: Temperature is a factor in the TAS calculation, so an OAT probe is used to measure the temperature of the ambient air.
 
 
+```math
+\begin{align*}
+V_{T} = \sqrt{u^2+v^2+w^2}
+\end{align*}
+```
