@@ -246,7 +246,19 @@ A_{y} = \frac{F_{y}}{mg} \\
 A_{z} = \frac{F_{z}}{mg}
 \end{align*}
 ```
-3. **Angle of Attack Probe or Angle of Attack Indicator** :
-4. **Side Slip Indicator or Slip/Skid Indicator** :
-5. **Pitot-Static System** :
+3. **Angle of Attack Probe or Angle of Attack Indicator**: AoA is the angle($\alpha$) between the oncoming air and the chord line of the wing. It's a critical parameter for controlling the aircraft's lift and stall characteristics. AoA is typically measured using an instrument called an "angle of attack indicator" or "AoA probe." The most common types of AoA probes include:
+    a. Vane Type AoA Indicator: This uses a vane exposed to the relative wind to measure the angle of attack.
+    b. Pressure-Based AoA Probe: Some aircraft use pressure sensors on the wing's leading edge to measure the pressure difference between the upper and lower surfaces. This pressure                                         difference is then used to calculate the AoA.
+    c. Angle of Attack Vanes: These are physical vanes attached to the wing that directly measure the AoA. 
+
+4. **Side Slip Indicator or Slip/Skid Indicator**: AoSS is the angle($\beta$) between the aircraft's longitudinal axis (the direction the aircraft is pointing) and the relative wind. It indicates how the aircraft is oriented with respect to the oncoming air. AoSS is often measured using a device called a "sideslip indicator" or "slip/skid indicator." This instrument usually includes a ball suspended in a curved tube, similar to a spirit level. When the ball is centered, the aircraft is in coordinated flight (no sideslip). When it's off-center, it indicates a sideslip condition. 
+
+5. **Pitot-Static System**: True airspeed is the actual speed of the aircraft through the air, corrected for altitude and temperature ($V_{T}). TAS is typically measured using a **pitot-static system, which includes:**
+        a. Pitot Tube: This is a forward-facing tube on the aircraft that measures the pressure of the oncoming air. The dynamic pressure (ram air pressure) is used to determine the                               indicated airspeed (IAS).
+
+        b. Static Ports: These are static pressure ports typically located on the sides of the aircraft. They measure the atmospheric pressure at the aircraft's current altitude.
+
+        c. Air Data Computer (ADC): The pitot and static pressure measurements are fed into an ADC, which computes the TAS by correcting the IAS for altitude (pressure altitude) and                   temperature.
+
+        d. Outside Air Temperature (OAT) Probe: Temperature is a factor in the TAS calculation, so an OAT probe is used to measure the temperature of the ambient air.
 
