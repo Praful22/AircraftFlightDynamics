@@ -295,6 +295,7 @@ with $n_y$ = 12 components.
 
 ```math
 \begin{align*}
+\end{align*}
 ```
 ## General Equations of Motions and Challenges:
 
