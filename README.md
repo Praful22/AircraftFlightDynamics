@@ -287,3 +287,27 @@ V_{T} = \sqrt{u^2+v^2+w^2}
 \end{align*}
 ```
 with $n_y$ = 12 components.
+
+## Aerodynamic Forces:
+1. Lift : 
+
+2. Drag :
+
+```math
+\begin{align*}
+```
+## General Equations of Motions and Challenges:
+
+
+
+## Simplified Flight Dynamics for Control Design:
+
+
+
+## Matlab and Python simulation for Aircraft Flight Dynamics Models:
+
+
+## Create a SIMULINK Block for Aircraft Flight Models:
+
+
+## Aerospace Toolbox and uses:
