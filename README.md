@@ -297,7 +297,7 @@ with $n_y$ = 12 components.
 F_{x} = X_{a} + X_{T} \\
 F_{y} = Y_{a} + Y_{T} \\
 F_{z} = Z_{a} + Z_{T} \\
-\text{the aerodynamic forces (X_a, Y_a, Z_a) can easily be written in terms of lift:}
+\text{the aerodynamic forces (X_{a}, Y_{a}, Z_{a}) can easily be written in terms of lift:}
 \end{align*}
 ```
 ## General Equations of Motions and Challenges:
