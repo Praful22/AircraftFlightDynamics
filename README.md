@@ -296,14 +296,12 @@ with $n_y$ = 12 components.
 \begin{align*}
 F_x = X_a + X_T \\
 F_y = Y_a + Y_T \\
-F_z = Z_a + Z_T
+F_z = Z_a + Z_T \\
 \text{the aerodynamic forces (X_a, Y_a, Z_a) can easily be written in terms of lift:}
 
-\begin{aligned}
-& X_{\mathrm{a}}=L \sin \alpha-D \cos \beta \cos \alpha \\
-& Y_{\mathrm{a}}=D \sin \beta \\
-& Z_{\mathrm{a}}=-L \cos \alpha-D \cos \beta \sin \alpha
-\end{aligned}
+X_{\mathrm{a}}=L \sin \alpha-D \cos \beta \cos \alpha \\
+Y_{\mathrm{a}}=D \sin \beta \\
+Z_{\mathrm{a}}=-L \cos \alpha-D \cos \beta \sin \alpha
 \end{align*}
 ```
 ## General Equations of Motions and Challenges:
