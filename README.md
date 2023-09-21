@@ -292,8 +292,7 @@ with $n_y$ = 12 components.
 1. Lift: The aerodynamic lift force is perpendicular to the vehicle's true airspeed $V_T$.
 
 2. Drag: Drag force resists the vehicle's motion along the airspeed direction. 
-```
-math
+```math
 \begin{align*}
 F_x=X_a+X_T \\
 F_y=Y_a+Y_T \\
