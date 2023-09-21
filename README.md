@@ -294,9 +294,9 @@ with $n_y$ = 12 components.
 2. Drag: Drag force resists the vehicle's motion along the airspeed direction. 
 ```math
 \begin{align*}
-F_x = X_a + X_T \\
-F_y = Y_a + Y_T \\
-F_z = Z_a + Z_T \\
+F_{x} = X_{a} + X_{T} \\
+F_{y} = Y_{a} + Y_{T} \\
+F_{z} = Z_{a} + Z_{T} \\
 \text{the aerodynamic forces (X_a, Y_a, Z_a) can easily be written in terms of lift:}
 \end{align*}
 ```
