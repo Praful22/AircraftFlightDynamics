@@ -288,13 +288,19 @@ V_{T} = \sqrt{u^2+v^2+w^2}
 ```
 with $n_y$ = 12 components.
 
-## Aerodynamic Forces:
-1. Lift : 
+## Forces:
+1. Lift: The aerodynamic lift force is perpendicular to the vehicle's true airspeed $V_T$.
 
-2. Drag :
+2. Drag: Drag force resists the vehicle's motion along the airspeed direction. 
+
 
 ```math
 \begin{align*}
+F_x=X_a+X_T, \quad F_y=Y_a+Y_T, \quad F_z=Z_a+Z_T \\
+the aerodynamic forces $\left(X_a, Y_a, Z_a\right)$ can easily be written in terms of lift
+& X_{\mathrm{a}}=L \sin \alpha-D \cos \beta \cos \alpha \\
+& Y_{\mathrm{a}}=D \sin \beta \\
+& Z_{\mathrm{a}}=-L \cos \alpha-D \cos \beta \sin \alpha
 \end{align*}
 ```
 ## General Equations of Motions and Challenges:
