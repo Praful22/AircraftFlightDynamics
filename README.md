@@ -311,7 +311,14 @@ The aerodynamic forces $(X_{a}, Y_{a}, Z_{a})$ can easily be written in terms of
 ## TODO: 
 
 ## General Equations of Motions and Challenges:
-In General, the aircraft equations of motion represent a continous 
+In General, the aircraft equations of motion represent a continuous dynamical multi-input multi-output system in the form:
+
+```math
+\begin{aligned}
+& \dot{\vec{x}}=f(\vec{x}, \vec{u}) \\
+& \vec{y}=h(\vec{x}, \vec{u})
+\end{aligned}
+```
 
 
 ## Simplified Flight Dynamics for Control Design:
