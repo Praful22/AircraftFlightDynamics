@@ -297,11 +297,21 @@ with $n_y$ = 12 components.
 F_{x} = X_{a} + X_{T} \\
 F_{y} = Y_{a} + Y_{T} \\
 F_{z} = Z_{a} + Z_{T} \\
-\text{the aerodynamic forces} (X_{a}, Y_{a}, Z_{a}) \text{can easily be written in terms of lift:}
 \end{align*}
 ```
-## General Equations of Motions and Challenges:
+## TODO: Add a picture representing the lift, drag forces on an aircraft with the angle of attack, air density, 
+The aerodynamic forces $(X_{a}, Y_{a}, Z_{a})$ can easily be written in terms of lift and drag as follows:
+```math
+\begin{aligned}
+& X_{\mathrm{a}}=L \sin \alpha-D \cos \beta \cos \alpha \\
+& Y_{\mathrm{a}}=D \sin \beta \\
+& Z_{\mathrm{a}}=-L \cos \alpha-D \cos \beta \sin \alpha
+\end{aligned}
+```
+## TODO: 
 
+## General Equations of Motions and Challenges:
+In General, the aircraft equations of motion represent a continous 
 
 
 ## Simplified Flight Dynamics for Control Design:
