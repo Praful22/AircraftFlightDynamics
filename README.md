@@ -324,6 +324,8 @@ with the state $\vec{x} \in R^9$, with control input $\vec{u} \in R^4$, and with
 
 ## Additional Equation of motion describing aircraft dynamics (Body-fixed velocities to Earth-fixed inertial velocities):
 
+These are the three relations that connect the aircraft body-fixed
+velocities (u, v, w) with the northeast-altitude inertial velocities $\dot{x},\dot{y},\dot{h}$
 ```math
 \begin{align*}
 \left(\begin{array}{c}
