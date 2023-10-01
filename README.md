@@ -320,7 +320,7 @@ In General, the aircraft equations of motion represent a continuous dynamical mu
 \end{aligned}
 ```
 
-with the state $\vec{x} \in R^9$, with control input $\vec{u} \in R^4$, and with the output $\vec{y} \in R^12$.
+with the state $\vec{x} \in R^9$, with control input $\vec{u} \in R^4$, and with the output $\vec{y} \in R^{12}$.
 
 
 ## Simplified Flight Dynamics for Control Design:
