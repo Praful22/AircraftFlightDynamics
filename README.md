@@ -86,7 +86,7 @@ F_z
 -\sin \theta \\
 \cos \theta \sin \varphi \\
 \cos \theta \cos \varphi
-\end{array}\right)}_{\vec{g}} \\
+\end{array}\right)}_{\vec{g}} \\ ...... (1)
 \end{aligned}
 ```
 Rotational Degree of Freedom:
