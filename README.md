@@ -354,6 +354,7 @@ The inertial speeds and positions are needed to design guidance algorithms for s
 and with the redefined 18-dimensional system output
 
 \vec{Y}=(\underbrace{A_x, A_y, A_z, V_T, \beta, \alpha, p, q, r, \varphi, \theta, \psi}_{\vec{y}}, \dot{x}, \dot{y}, \dot{h}, x, y, h)
+\end{align*}
 ```
 
 ## Simplified Flight Dynamics for Control Design:
