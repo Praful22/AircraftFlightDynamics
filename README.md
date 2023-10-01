@@ -347,12 +347,18 @@ u \\
 v \\
 w
 \end{array}\right)
+\end{align*}
+```
 The inertial speeds and positions are needed to design guidance algorithms for steering the vehicle along the prescribed trajectories. Also, these quantities become important during the landing and takeoff phases of flight. The three inertial velocities and positions can be added to the system output ~y. In that case, the aircraft dynamics would become 12-dimensional, with the extended state vector.
 
+```math
+\begin{align*}
 \vec{X}=(\underbrace{u, v, w, p, q, r, \varphi, \theta, \psi}_{\vec{x}}, x, y, h)^T
-
+\end{align*}
+```
 and with the redefined 18-dimensional system output
-
+```math
+\begin{align*}
 \vec{Y}=(\underbrace{A_x, A_y, A_z, V_T, \beta, \alpha, p, q, r, \varphi, \theta, \psi}_{\vec{y}}, \dot{x}, \dot{y}, \dot{h}, x, y, h)
 \end{align*}
 ```
