@@ -299,7 +299,7 @@ F_{y} = Y_{a} + Y_{T} \\
 F_{z} = Z_{a} + Z_{T} \\
 \end{align*}
 ```
-## TODO: Add a picture representing the lift, drag forces on an aircraft with the angle of attack, air density, 
+## TODO: Add a picture representing the lift, and drag forces on an aircraft with the angle of attack, air density, 
 The aerodynamic forces $(X_{a}, Y_{a}, Z_{a})$ can easily be written in terms of lift and drag as follows:
 ```math
 \begin{aligned}
@@ -322,6 +322,38 @@ In General, the aircraft equations of motion represent a continuous dynamical mu
 
 with the state $\vec{x} \in R^9$, with control input $\vec{u} \in R^4$, and with the output $\vec{y} \in R^{12}$.
 
+## Additional Equation of motion describing aircraft dynamics (Body-fixed velocities to Earth-fixed inertial velocities):
+
+```math
+\begin{align*}
+\left(\begin{array}{c}
+\dot{x} \\
+\dot{y} \\
+-\dot{h}
+\end{array}\right)=\left(\begin{array}{ccc}
+1 & 0 & 0 \\
+0 & \cos \varphi & \sin \varphi \\
+0 & -\sin \varphi & \cos \varphi
+\end{array}\right)\left(\begin{array}{ccc}
+\cos \theta & 0 & -\sin \theta \\
+0 & 1 & 0 \\
+\sin \theta & 0 & \cos \theta
+\end{array}\right)\left(\begin{array}{ccc}
+\cos \psi & \sin \psi & 0 \\
+-\sin \psi & \cos \psi & 0 \\
+0 & 0 & 1
+\end{array}\right)\left(\begin{array}{c}
+u \\
+v \\
+w
+\end{array}\right)
+The inertial speeds and positions are needed to design guidance algorithms for steering the vehicle along the prescribed trajectories. Also, these quantities become important during the landing and takeoff phases of flight. The three inertial velocities and positions can be added to the system output ~y. In that case, the aircraft dynamics would become 12-dimensional, with the extended state vector.
+
+\vec{X}=(\underbrace{u, v, w, p, q, r, \varphi, \theta, \psi}_{\vec{x}}, x, y, h)^T
+
+and with the redefined 18-dimensional system output
+
+\vec{Y}=(\underbrace{A_x, A_y, A_z, V_T, \beta, \alpha, p, q, r, \varphi, \theta, \psi}_{\vec{y}}, \dot{x}, \dot{y}, \dot{h}, x, y, h)
 
 ## Simplified Flight Dynamics for Control Design:
 
