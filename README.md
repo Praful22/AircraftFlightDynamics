@@ -351,7 +351,7 @@ w
 \end{array}\right)
 \end{align*}
 ```
-The inertial speeds and positions are needed to design guidance algorithms for steering the vehicle along the prescribed trajectories. Also, these quantities become important during the landing and takeoff phases of flight. The three inertial velocities and positions can be added to the system output ~y. In that case, the aircraft dynamics would become 12-dimensional, with the extended state vector.
+The inertial speeds and positions are needed to design guidance algorithms for steering the vehicle along the prescribed trajectories. Also, these quantities become important during the landing and takeoff phases of flight. The three inertial velocities and positions can be added to the system output y. In that case, the aircraft dynamics would become 12-dimensional, with the extended state vector.
 
 ```math
 \begin{align*}
@@ -369,7 +369,7 @@ Equations of motions described by https://github.com/Praful22/AircraftFlightDyna
 
 What does that mean?
 
-Imagine you're trying to build a remote control for a model airplane. You could use a very detailed model of the airplane to make the remote control, but that might make things overly complicated and sensitive to small differences. So, here's the challenge: How much detail should you include in your model to make sure the remote control is easy to use, works well, and does what it's supposed to do? Well, the answer depends on what you want to achieve with your model airplane and remote control. What do we do it then? 
+Imagine you're trying to build a remote control for a model airplane. You could use a very detailed model of the airplane to make the remote control, but that might make things overly complicated and sensitive to small differences. So, here's the challenge: How much detail should you include in your model to make sure the remote control is easy to use, works well, and does what it's supposed to do? Well, the answer depends on what you want to achieve with your model airplane and remote control. What do we do then? 
 
 
 
