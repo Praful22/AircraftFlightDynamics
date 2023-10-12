@@ -372,8 +372,14 @@ What does that mean?
 Imagine you're trying to build a remote control for a model airplane. You could use a very detailed model of the airplane to make the remote control, but that might make things overly complicated and sensitive to small differences. So, here's the challenge: How much detail should you include in your model to make sure the remote control is easy to use, works well, and does what it's supposed to do? Well, the answer depends on what you want to achieve with your model airplane and remote control. What do we do then? 
 
 
-
 ## Simplified Flight Dynamics for Control Design:
+
+The aircraft 6-DoF motion equations may be formulated into a steady state around an operating point called a trim point and dynamics of perturbations around the trim conditions. This formulation will help to reduce the overall nonlinearity of fully coupled 6-DoF aircraft dynamics into a tractable form allowing practical control design and analysis. Trimming an aircraft involves achieving an equilibrium between aerodynamic, propulsive, and gravitational forces and moments acting on the aircraft. An aircraft is trimmed by setting its primary control values that would result in the desired steady-state flight conditions.
+
+Mathematically, a system equilibrium pair $(
+
+
+
 
 
 
