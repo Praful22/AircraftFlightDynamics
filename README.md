@@ -376,7 +376,7 @@ Imagine you're trying to build a remote control for a model airplane. You could 
 
 The aircraft 6-DoF motion equations may be formulated into a steady state around an operating point called a trim point and dynamics of perturbations around the trim conditions. This formulation will help to reduce the overall nonlinearity of fully coupled 6-DoF aircraft dynamics into a tractable form allowing practical control design and analysis. Trimming an aircraft involves achieving an equilibrium between aerodynamic, propulsive, and gravitational forces and moments acting on the aircraft. An aircraft is trimmed by setting its primary control values that would result in the desired steady-state flight conditions.
 
-Mathematically, a system equilibrium pair $(\vect{x}_eq$,$\vect{y}_eq)$ would zero out the translational and rotational acceleration in translational and rotational equations of motion such that:
+Mathematically, a system equilibrium pair $$(\vect{x}_{eq},\vect{y}_{eq})$$ would zero out the translational and rotational acceleration in translational and rotational equations of motion such that:
 
 ```math
 Translational DoF: 0=-\left[\left(\begin{array}{c}p \\ q \\ r\end{array}\right) \times\left(\begin{array}{c}u \\ v \\ w\end{array}\right)\right]+\left(\begin{array}{l}F_x \\ F_y \\ F_z\end{array}\right)+m \vec{g}
