@@ -395,7 +395,21 @@ Equivalently:
 ```math
 0 = f(\vec{x}_{eq}, \vec{u}_{eq})
 ```
+The trim points rely on altitude and airspeed and involve creating control-oriented models and designing flight control.
 
+This process includes:
+
+1. Establishing a dense set of trim points across the flight envelope.
+2. Developing simplified linear models for each trim point.
+3. Designing fixed-point flight controllers based on these models.
+4. Combining linear controllers through interpolation for different flight conditions.
+The outcome is a gain-scheduled flight control system applicable to the entire operational range.
+
+In the Google Collab files that are included in this directory, we'll focus on Step 2, where we derive linear models for a specific trim point when a conventional aircraft is trimmed wings-level at certain flight conditions. When a typical aircraft is adjusted to maintain level flight with its wings even, and under specific flight conditions, the vehicle's dynamics naturally separate into two distinct modes: longitudinal and lateral-directional. We will derive each of these modes independently.
+
+Link to Derivation of Lateral Directional Dynamics: https://github.com/Praful22/AircraftFlightDynamics/blob/main/Lateral_Directional_Dynamics.ipynb 
+
+Link to Derivation of Longitudinal Dynamics: https://github.com/Praful22/AircraftFlightDynamics/blob/main/Longitudinal_Dynamics.ipynb 
 
 
 ## Matlab and Python simulation for Aircraft Flight Dynamics Models:
