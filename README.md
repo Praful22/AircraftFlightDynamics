@@ -378,11 +378,12 @@ The aircraft 6-DoF motion equations may be formulated into a steady state around
 
 Mathematically, a system equilibrium pair $(\vect{x}_eq$,$\vect{y}_eq)$ would zero out the translational and rotational acceleration in translational and rotational equations of motion such that:
 
-Translational DoF: $0=-\left[\left(\begin{array}{c}p \\ q \\ r\end{array}\right) \times\left(\begin{array}{c}u \\ v \\ w\end{array}\right)\right]+\left(\begin{array}{l}F_x \\ F_y \\ F_z\end{array}\right)+m \vec{g}$
-Rotational DoF: 0 $=-\left[\left(\begin{array}{c}p \\ q \\ r\end{array}\right) \times J\left(\begin{array}{c}p \\ q \\ r\end{array}\right)\right]+\left(\begin{array}{c}\bar{L} \\ M \\ N\end{array}\right)$
+```math
+Translational DoF: 0=-\left[\left(\begin{array}{c}p \\ q \\ r\end{array}\right) \times\left(\begin{array}{c}u \\ v \\ w\end{array}\right)\right]+\left(\begin{array}{l}F_x \\ F_y \\ F_z\end{array}\right)+m \vec{g}
+Rotational DoF: 0 =-\left[\left(\begin{array}{c}p \\ q \\ r\end{array}\right) \times J\left(\begin{array}{c}p \\ q \\ r\end{array}\right)\right]+\left(\begin{array}{c}\bar{L} \\ M \\ N\end{array}\right)
 
 or  $$0 = f(\vec{x}_{eq}, \vec{u}_{eq})$$
-
+```
 
 
 
