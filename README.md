@@ -415,7 +415,9 @@ Link to Longitudinal Dynamics: https://github.com/Praful22/AircraftFlightDynamic
 ## Matlab and Python simulation for Aircraft Flight Dynamics Models:
 
 
-## Create a SIMULINK Block for Aircraft Flight Models:
+## Create a SIMULINK Block for Aircraft Physical Model/Plant:
+
+
 
 
 ## Aerospace Toolbox and uses:
