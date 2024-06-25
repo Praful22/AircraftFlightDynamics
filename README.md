@@ -415,10 +415,11 @@ Link to Longitudinal Dynamics: https://github.com/Praful22/AircraftFlightDynamic
 
 ![image](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/73e903d6-094a-4b75-8cb3-1b6b8a8361bd)
 
-![image](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/8185524a-194b-4078-8950-2b19f8d7f991)
+![image](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/8d5fe0f6-43a8-4a76-be3a-fff5c54d0e87)
 
+![image](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/f05a6299-583e-48f6-8382-31b162f45bfe)
 
-
+![image](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/652cff2d-5c9b-4968-a0ee-65f655953278)
 
 
 ## Aerospace Toolbox and uses: Control Systems Toolbox, Optimization Toolbox, 
