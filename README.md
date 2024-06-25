@@ -415,7 +415,8 @@ Link to Longitudinal Dynamics: https://github.com/Praful22/AircraftFlightDynamic
 
 ![image](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/73e903d6-094a-4b75-8cb3-1b6b8a8361bd)
 
-![image](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/042f58f1-ed9e-4ca4-bac1-44fb3d326a48)
+![image](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/8185524a-194b-4078-8950-2b19f8d7f991)
+
 
 
 
