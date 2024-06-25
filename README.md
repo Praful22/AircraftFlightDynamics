@@ -411,13 +411,13 @@ Link to Lateral Directional Dynamics: https://github.com/Praful22/AircraftFlight
 
 Link to Longitudinal Dynamics: https://github.com/Praful22/AircraftFlightDynamics/blob/main/Longitudinal_Dynamics.ipynb 
 
-
-## Matlab and Python simulation for Aircraft Flight Dynamics Models:
-
-
 ## Create a SIMULINK Block for Aircraft Physical Model/Plant:
 
+![image](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/73e903d6-094a-4b75-8cb3-1b6b8a8361bd)
+
+![image](https://github.com/Praful22/AircraftFlightDynamics/assets/65821250/042f58f1-ed9e-4ca4-bac1-44fb3d326a48)
 
 
 
-## Aerospace Toolbox and uses:
+
+## Aerospace Toolbox and uses: Control Systems Toolbox, Optimization Toolbox, 
